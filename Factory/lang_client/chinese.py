@@ -5,5 +5,3 @@ class Chiness:
         
     def translation(self):
         return "From Chines Language"
-
-
